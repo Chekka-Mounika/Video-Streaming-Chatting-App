@@ -13,13 +13,14 @@
   - [Client Code](#client-code)
   - [Server Code](#server-code)
 
-## Problem Statement
 
-In today's digital age, there is a growing need for secure and efficient communication systems that can handle multiple functionalities simultaneously. Specifically, there is a demand for systems that can provide synchronous chatting and video streaming capabilities. The challenge is to create a robust application that ensures secure communication, real-time updates, and efficient handling of multiple client connections, all while maintaining high performance and user experience.
+### Problem Statement
+
+In today's digital age, there is a growing need for secure and efficient communication systems that can handle multiple functionalities simultaneously. Specifically, there is a demand for systems that can provide synchronous chatting and video streaming capabilities over a reliable network protocol. The challenge is to create a robust application that ensures secure communication, real-time updates, and efficient handling of multiple client connections using TCP/IP, all while maintaining high performance and user experience.
 
 ### Solution
 
-This project addresses the problem by implementing a secured system for video streaming and messaging using Python, socket programming, OpenCV, and multithreading. The application is designed to handle synchronous chatting and video streaming concurrently, enhancing the user experience with real-time communication and media capabilities.
+This project addresses the problem by implementing a secured system for video streaming and messaging using Python, socket programming, TCP/IP, OpenCV, and multithreading. The application is designed to handle synchronous chatting and video streaming concurrently, enhancing the user experience with real-time communication and media capabilities.
 
 ### Key Features
 
